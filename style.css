@@ -153,6 +153,7 @@ div.konten img{
 	left: 2%;
 	border: 5px solid;
 	overflow-x:hidden;
+	background-color:rgba(96,88,75,0.8);
 }
 
 .atassampinghome{
@@ -168,6 +169,7 @@ div.konten img{
 	display:block;
 	float: center;
 	text-transform: uppercase;
+	background-color:rgba(96,88,75,0.8);
 }
 
 .kontenhome{
