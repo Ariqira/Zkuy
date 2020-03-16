@@ -74,7 +74,8 @@ hr {
 	overflow-x:hidden;
 	overflow-y:hidden;
 	border: 5px solid;
-	background:#707070;
+	background:#60584b;
+	opacity:0.7;
 }
 
 .konten {
@@ -102,6 +103,8 @@ div.konten img{
 	left: 2%;
 	border: 5px solid;
 	overflow-x:hidden;
+	background:#60584b;
+	opacity:0.7;
 }
 
 .atassamping{
