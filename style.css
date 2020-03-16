@@ -51,13 +51,13 @@ header{
 }
 
 .menu ul li a:hover{
-	background: #fff;
-	color: black;
+	background-color:rgba(96,88,75,0.8);
+	color: #fff;
 }
 
 hr {
 	border:0;
-	background:#dedede;
+	background:#fff;
 	height:5px;
 }		
 
