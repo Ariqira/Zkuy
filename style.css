@@ -58,7 +58,7 @@ header{
 hr {
 	border:0;
 	background:#dedede;
-	height:1px;
+	height:5px;
 }		
 
 .blog{
@@ -74,6 +74,7 @@ hr {
 	right: 2%;
 	overflow-x:hidden;
 	overflow-y:hidden;
+	border: 5px solid;
 }
 
 .konten {
@@ -86,7 +87,6 @@ div.konten img{
 	float:center;
 	max-height: 448px;
 	max-width:96%;
-	border: 5px solid;
 	color:#fff;
 }
 
@@ -177,7 +177,6 @@ div.konten img{
 	padding-top:15%;
 	width:100%;
 	margin:2%;
-	border: 5px solid;
 }
 
 .kontenprofil a:hover{
