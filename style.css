@@ -74,6 +74,10 @@ hr {
 	overflow-x:hidden;
 	overflow-y:hidden;
 	border: 5px solid;
+}
+
+.blog back{
+	width:100%;
 	background:#60584b;
 	opacity:0.7;
 }
